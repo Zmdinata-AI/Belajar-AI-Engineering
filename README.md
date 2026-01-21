@@ -1,4 +1,4 @@
-Dokumentasi Belajar Bracnch
+Dokumentasi Belajar Branch
 ==
 Ini adalah dokumentasi pembelajaran mengenai AI Engineering yang mana akan dipelajari pada materi di Dicoding Indonesia
 --
